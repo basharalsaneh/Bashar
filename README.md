@@ -22,6 +22,7 @@
 <ul>
   <li><a href="https://rekoplus.se">Rekoplus</a>: The project aimed to create a web-based additional page that facilitated orders for customers through REKO's Facebook groups.</li>
    <li><a href="https://github.com/basharalsaneh/Task-manager">Task Manager</a>: Add, edit, remove, and complete tasks effortlessly to boost productivity and stay organized.</li>
+    <li><a href="https://bashar-invetory-app.vercel.app/">Inventory App</a>: A web app built with the MERN stack for easy management of product inventory. Add, edit, and remove products with a user-friendly interface.</li>
   <li><a href="https://github.com/basharalsaneh/HatProject">Hattmakeri Projekt</a>: This project involved implementing an agile software development project using Scrum and eXtreme Programming (XP) to effectively apply agile principles.</li>
   <li><a href="https://github.com/basharalsaneh/CVSite">CV Sajt</a>: This project aimed to develop a website for users to manage their CVs and project information in a user-friendly manner.</li>
 </ul>
