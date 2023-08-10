@@ -34,9 +34,9 @@
 <p>I'm always open to collaboration and new opportunities. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me.</p>
 
 <ul>
-  <li>Email: <a href="mailto:basharalsanee19@gmail.com">basharalsanee19@gmail.com</a></li>
+  <li>Email: <a href="mailto:support@basharcode.se">Support@basharcode.se</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/bashar-alsaneh/">My LinkedIn Profile</a></li>
-  <li>Website: <a href="https://basharcode.rf.gd/">My Portfolio</a></li>
+  <li>Website: <a href="https://www.basharcode.se/">My Portfolio</a></li>
 </ul>
 
 <p>I look forward to connecting with you!</p>
